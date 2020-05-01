@@ -1,0 +1,4 @@
+**/node_modules
+**/neardev
+**/target
+**/.DS_Store
